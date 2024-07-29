@@ -4,8 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on backend developer
-- 🌱 I’m currently learning backend developer
-- 👯 I’m looking to collaborate on backend developer
-- 🤔 I’m looking for help with backend developer
-- 💬 Ask me about backend development
+- 🔭 I’m currently working on DSA & Algorithms
+- 🌱 I’m currently learning android developement
+- 👯 I’m looking to collaborate on backend & android both kinds developer
+- 💬 Ask me about android development
