@@ -17,7 +17,6 @@
   <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/Database/oracle.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" alt="c" width="40" height="40"/>
 </p>
-# 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SagVK04&show_icons=true&locale=en&layout=compact" alt="SagVK04" /></p>
 
 
