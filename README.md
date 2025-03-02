@@ -7,8 +7,16 @@
 <a href="https://facebook.com/SagnikMetiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook/Sagnik-Metiya" height="40" width="40" /></a>
 <a href="https://instagram.com/SagnikMetiya" target="blank"><img align="center" src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Sagnik Metiya" height="40" width="40" /></a>
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 💻 Tools and Techs:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/MobileAppDevelopment/android.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/MobileAppDevelopment/kotlin.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/Database/oracle.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" alt="c" width="40" height="40"/>
+</p>
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SagVK04&show_icons=true&locale=en&layout=compact" alt="SagVK04" /></p>
 
