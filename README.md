@@ -17,11 +17,12 @@
   <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/Database/oracle.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" alt="c" width="40" height="40"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagVK04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="SagVK04" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SagVK04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="SagVK04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagVK04&theme=tokyonight&hide_border=true" alt="SagVK04" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagVK04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="SagVK04" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SagVK04&limit=5&theme=dark&combine_all_yearly_contributions=true)
