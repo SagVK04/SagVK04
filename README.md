@@ -19,7 +19,7 @@
   <img src="https://github.com/SagVK04/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="c" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SagVK04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="SagVK04" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SagVK04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="SagVK04"/></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=SagVK04%20&theme=dark" alt="SagVK04" /></p>
 
