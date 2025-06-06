@@ -1,5 +1,5 @@
 # 💫 About Me:
-👉This is the Github profile of Sagnik Metiya<br>🔭 I’m passionate about DSA<br>🌱 I’m currently learning android developement through Android Studio using Kotlin & exploring Java Programming<br>👯 I’m looking to learn more cutting-edge Android Develpment skills<br>💬 Ask me about Android Development<br>🎓 Studying at College of Engineering and Management, Kolaghat (2022 - 2026)
+👉This is the Github profile of Sagnik Metiya<br>🔭 I’m passionate about DSA<br>🌱 I’m currently learning android developement through Android Studio using Kotlin & exploring Java Programming<br>👯 I’m looking to learn more cutting-edge Android Develpment skills<br>🎓 Studying at College of Engineering and Management, Kolaghat (2022 - 2026)
 
 
 ## 🌐 Socials:
